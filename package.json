@@ -1,0 +1,24 @@
+{
+  "name": "vpm-cache",
+  "description": "简单的缓存模块",
+  "main": "app.js",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gavinning/vpm-cache.git"
+  },
+  "keywords": [
+    "vpm-cache",
+    "vpm"
+  ],
+  "author": "gavinning",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gavinning/vpm-cache/issues"
+  },
+  "homepage": "https://github.com/gavinning/vpm-cache",
+  "dependencies": {
+    "linco.lab": "*",
+    "aimee-class": "*"
+  }
+}
